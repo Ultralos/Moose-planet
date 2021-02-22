@@ -1,1 +1,2 @@
 # Moose-planet
+"Hello world"
